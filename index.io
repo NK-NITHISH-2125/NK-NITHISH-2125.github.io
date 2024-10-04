@@ -14,12 +14,12 @@
   body {
     font: 400 15px Lato, sans-serif;
     line-height: 1.8;
-    color: #50139e;
+    color: #818181;
   }
   h2 {
     font-size: 24px;
     text-transform: uppercase;
-    color: #e5e2eb;
+    color: #303030;
     font-weight: 600;
     margin-bottom: 30px;
   }
@@ -31,8 +31,8 @@
     margin-bottom: 30px;
   }  
   .jumbotron {
-    background-color: #2de736;
-    color: rgba(7, 247, 19, 0.815);
+    background-color: #f4511e;
+    color: #fff;
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
   }
@@ -40,14 +40,14 @@
     padding: 60px 50px;
   }
   .bg-grey {
-    background-color: #18c99c;
+    background-color: #f6f6f6;
   }
   .logo-small {
-    color: #37f41e;
+    color: #f4511e;
     font-size: 50px;
   }
   .logo {
-    color: #3312ac;
+    color: #f4511e;
     font-size: 200px;
   }
   .thumbnail {
@@ -62,13 +62,13 @@
   }
   .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #7d26c4;
+    color: #f4511e;
   }
   .carousel-indicators li {
-    border-color: #722ba1;
+    border-color: #f4511e;
   }
   .carousel-indicators li.active {
-    background-color: #6b15db;
+    background-color: #f4511e;
   }
   .item h4 {
     font-size: 19px;
@@ -81,7 +81,7 @@
     font-style: normal;
   }
   .panel {
-    border: 1px solid #7e15d4; 
+    border: 1px solid #f4511e; 
     border-radius:0 !important;
     transition: box-shadow 0.5s;
   }
@@ -89,13 +89,13 @@
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
   }
   .panel-footer .btn:hover {
-    border: 1px solid #e70713;
+    border: 1px solid #f4511e;
     background-color: #fff !important;
-    color: #6d24c0;
+    color: #f4511e;
   }
   .panel-heading {
     color: #fff !important;
-    background-color: #7618c4 !important;
+    background-color: #f4511e !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -104,23 +104,23 @@
     border-bottom-right-radius: 0px;
   }
   .panel-footer {
-    background-color: rgb(164, 58, 190) !important;
+    background-color: white !important;
   }
   .panel-footer h3 {
     font-size: 32px;
   }
   .panel-footer h4 {
-    color: rgb(119, 48, 185);
+    color: #aaa;
     font-size: 14px;
   }
   .panel-footer .btn {
     margin: 15px 0;
-    background-color: #6543b4;
-    color: rgb(63, 15, 238);
+    background-color: #f4511e;
+    color: #fff;
   }
   .navbar {
     margin-bottom: 0;
-    background-color: #7a19f8;
+    background-color: #f4511e;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -130,20 +130,20 @@
     font-family: Montserrat, sans-serif;
   }
   .navbar li a, .navbar .navbar-brand {
-    color: rgb(250, 171, 96) !important;
+    color: #fff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #f4511e !important;
-    background-color: rgba(116, 245, 11, 0)255, 255, 255)255, 255, 255) !important;
+    background-color: #fff !important;
   }
   .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: rgb(24, 243, 4) !important;
+    color: #fff !important;
   }
   footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #8024bd;
+    color: #f4511e;
   }
   .slideanim {visibility:hidden;}
   .slide {
@@ -249,7 +249,7 @@
     </div>
     <div class="col-sm-8">
       <h2>Our Values</h2><br>
-      <h4><strong>MISSION:</strong>sed do eiusm exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
+      <h4><strong>MISSION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
       <p><strong>VISION:</strong> Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
@@ -265,17 +265,17 @@
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-off logo-small"></span>
       <h4>POWER</h4>
-      <p>BLACK CLOVER: I am asta from hage village and I am gonna be the next wizard king</p>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-heart logo-small"></span>
       <h4>LOVE</h4>
-      <p>ONE PIECE: my name is monkey d luffy and I am gonna be the king of the pirates</p>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-lock logo-small"></span>
       <h4>JOB DONE</h4>
-      <p>JUJUTSU KAISEN:  Love is the most twisted curse of all curses</p>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
   </div>
   <br><br>
@@ -283,17 +283,17 @@
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-leaf logo-small"></span>
       <h4>GREEN</h4>
-      <p>Wake up to reality nothing ever go as planned in this accursive world the longer you live the longer you realize the only thing that truely exist in this world are merely pain and suffering</p>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-certificate logo-small"></span>
       <h4>CERTIFIED</h4>
-      <p>This is an edited text</p>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-wrench logo-small"></span>
-      <h4 style="color:#3786D0;">HARD WORK</h4>
-      <p>Well this a site I created on my own </p>
+      <h4 style="color:#303030;">HARD WORK</h4>
+      <p>Lorem ipsum dolor sit amet..</p>
     </div>
   </div>
 </div>
